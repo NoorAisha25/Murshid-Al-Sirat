@@ -132,6 +132,9 @@ https://1drv.ms/v/c/cbae90cd3baecf55/EZGVYHec6oxHiRO8gQlbxiQB_l20dG2l7KHydLnvmve
 - Then on Agent Lab(Beta)
 - After that build your own Agent AI by following above Steps in Screenshots
 
+#  Resource List
+![Screenshot_3-8-2025_16535_cloud ibm com](https://github.com/user-attachments/assets/c078b0ac-0cb5-49b7-9ec2-16370a4e803b)
+
 #  Future Scope
 - Multilingual support for regional languages
 - Mobile and WhatsApp chatbot integration
