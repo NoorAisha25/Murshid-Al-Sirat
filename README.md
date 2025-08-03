@@ -33,10 +33,20 @@ A smart, localized AI agent built on IBM Watsonx.ai and IBM Granite that deliver
 - Teachers and mentors in rural institutions
 
 # WOW Factors
-- Built entirely on IBM Cloud using Watsonx tools
-- Handles off-topic questions with polite redirection
-- Multilingual and culturally sensitive
-- Encourages ethical, value-aligned career choices
+This AI-powered career counselor bridges the gap in structured guidance for youth in rural and underserved communities. Built entirely on IBM Cloud Lite using Watsonx tools, it democratizes access to career planning by offering personalized, scalable, and culturally sensitive support—without the need for physical infrastructure or professional counselors.
+## Unique Features:
+- Conversational Career Guidance: Delivers interactive, personalized advice through Watson Assistant, helping users discover job-oriented courses, government schemes, and online training platforms.
+- Skill-to-Career Mapping: Uses Watson Discovery to match user interests and abilities with relevant career paths, vocational programs, and emerging job roles.
+- Multilingual & Region-Aware: Communicates in local languages and adapts content to regional contexts, making guidance accessible and relatable.
+- Ethical & Value-Aligned Suggestions: Encourages career choices that align with personal values, community needs, and long-term sustainability.
+- Polite Redirection for Off-Topic Queries: Maintains focus while ensuring respectful and engaging interactions.
+- Freelance & Remote Work Insights: Introduces alternative income paths for youth with limited local opportunities.
+- Portfolio & Resume Support: Guides users in creating ATS-optimized resumes and showcasing skills effectively.
+## Impact-Driven Capabilities:
+- Awareness Building: Highlights government schemes, scholarships, and free learning platforms like SWAYAM, Skill India, and PMKVY.
+- Trend Analysis in Local Job Markets: Tracks demand for skills in agriculture, crafts, tech, and services to inform career decisions.
+- Mentorship & Community Mapping: Suggests potential mentors, institutions, and peer networks based on shared interests and goals.
+- Scalable & Inclusive: Designed to reach thousands of students across villages and small towns—no counselor required.
 
 # Key Features
 - Prompt-based Q&A using IBM Granite
