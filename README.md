@@ -1,1 +1,2 @@
-# FalahBot
+# AI Career Counselor for Rural Youth -``FalahBot
+An AI-powered career guidance agent designed to empower rural youth with personalized, ethical, and accessible career advice. Built using IBM Watsonx.ai and IBM Granite, this agent helps underserved communities discover job-oriented courses, government schemes, and skill development opportunities—while aligning with values of purposeful livelihood and holistic growth.
