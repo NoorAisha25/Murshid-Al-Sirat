@@ -130,11 +130,22 @@ A smart, localized AI agent built on IBM Watsonx.ai and IBM Granite that deliver
 - After that build your own Agent AI by following above Steps in Screenshots
 
 #  Future Scope
-- Voice input for accessibility
-- Monthly career update reports
-- Region-specific career recommendations
-- Integration with Islamic career ethics modules
-- Multilingual expansion with Watson Language Translator
+- Multilingual support for regional languages
+- Mobile and WhatsApp chatbot integration
+- Offline and SMS-based access for low-connectivity areas
+- Personalized career mapping through interest-based profiling
+- Integration with free/subsidized online courses and government schemes
+- Dynamic knowledge base with updated resources and visual content
+- Mentor and peer network for guidance and motivation
+- Analytics to track user behavior and identify regional career gaps
+- Impact reporting for NGOs, educators, and policymakers
+
+# Useful Links
+https://cloud.ibm.com/registration
+https://www.ibm.com/products/watsonx-ai
+https://skillsbuild.org/
+https://admin.skillindiadigital.gov.in/login
+https://www.ncs.gov.in/
 
 
 
