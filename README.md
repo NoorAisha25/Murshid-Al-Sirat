@@ -51,3 +51,105 @@ A smart, localized AI agent built on IBM Watsonx.ai and IBM Granite that deliver
 - Agent responds using pre-curated knowledge and prompt logic
 - No external retrieval or dynamic indexing used
 
+# ScreentShots of end-to-end Agent Building and Deployment :
+
+## Home Page of IBM watsonx
+![Screenshot_3-8-2025_124721_dataplatform cloud ibm com](https://github.com/user-attachments/assets/571fc657-53b0-4f3e-b151-6b3f9c01335d)
+
+## Building the Agent 
+![Screenshot_3-8-2025_124831_dataplatform cloud ibm com](https://github.com/user-attachments/assets/d14704f1-1d43-4e5d-b7c6-69220a5f904b)
+
+## Selecting Foundational Model
+![Screenshot_3-8-2025_12499_dataplatform cloud ibm com](https://github.com/user-attachments/assets/72343b86-9899-47f3-8b63-a106165081ed)
+
+## SetUp
+![Screenshot_3-8-2025_124928_dataplatform cloud ibm com](https://github.com/user-attachments/assets/db482b54-0375-4d4a-a1f0-e90a5d5ea09b)
+
+## Quick Start Questions
+![Screenshot_3-8-2025_124943_dataplatform cloud ibm com](https://github.com/user-attachments/assets/0ffc9e25-3118-4bf5-bfb9-df00307d91f8)
+
+## Configuration
+![Screenshot_3-8-2025_125042_dataplatform cloud ibm com](https://github.com/user-attachments/assets/8ea7266e-c089-4bd8-bc8e-085e5b74ffe7)
+
+## Agent Instructions
+![Screenshot_3-8-2025_125112_dataplatform cloud ibm com](https://github.com/user-attachments/assets/ebaaa6d1-3a95-401d-84da-a9c3f1e109ac)
+
+## Tools Used
+![Screenshot_3-8-2025_125221_dataplatform cloud ibm com](https://github.com/user-attachments/assets/051ef4e1-ea75-4757-bb57-d80b542bd78d)
+
+## Model Parameters
+![Screenshot_3-8-2025_125240_dataplatform cloud ibm com](https://github.com/user-attachments/assets/b10409b2-d533-40f0-b4eb-afca1686a0cc)
+
+## Agent Preview
+![Screenshot_3-8-2025_12536_dataplatform cloud ibm com](https://github.com/user-attachments/assets/0ae50c51-2d39-4021-87f2-ee93b78c45dd)
+
+## Deployment Initialising
+![Screenshot_3-8-2025_125350_dataplatform cloud ibm com](https://github.com/user-attachments/assets/d7ea6572-ae98-4b92-8a70-5d9e4a5e1866)
+
+## Deployment
+![Screenshot_3-8-2025_125419_dataplatform cloud ibm com](https://github.com/user-attachments/assets/6740b294-26db-450f-9970-5da7d510e6af)
+
+## General Information about Agent
+![Screenshot_3-8-2025_125445_dataplatform cloud ibm com](https://github.com/user-attachments/assets/0b3167f2-dab7-4330-8aea-8a6c5e942c9c)
+
+## Overview
+![Screenshot_3-8-2025_123247_dataplatform cloud ibm com](https://github.com/user-attachments/assets/d6f7ce1e-a9c0-4e55-a4f0-f67fb2974801)
+
+## Assets of Agent
+![Screenshot_3-8-2025_12557_dataplatform cloud ibm com](https://github.com/user-attachments/assets/9adcb0c6-2de1-4d0e-838f-3f7c4840c0df)
+
+## About Asset
+![Screenshot_3-8-2025_125534_dataplatform cloud ibm com](https://github.com/user-attachments/assets/762110ae-6c95-461b-9fc0-b2b9496f4b37)
+
+## Glimpse of Code
+![Screenshot_3-8-2025_123338_dataplatform cloud ibm com](https://github.com/user-attachments/assets/d82feb35-c17e-4a3b-b74f-4497ec849856)
+![Screenshot_3-8-2025_123354_dataplatform cloud ibm com](https://github.com/user-attachments/assets/eae02d7c-5325-49c3-b23f-3e176ca521d0)
+
+## Schema
+![Screenshot_3-8-2025_123437_dataplatform cloud ibm com](https://github.com/user-attachments/assets/5d2c994a-04c7-4454-be6e-a594a75671fc)
+
+## API reference
+![Screenshot_3-8-2025_123537_dataplatform cloud ibm com](https://github.com/user-attachments/assets/18d21578-f31e-4433-9f25-a4e659c0a0a8)
+
+# Test and Predict
+![Screenshot_2-8-2025_181042_dataplatform cloud ibm com](https://github.com/user-attachments/assets/43023ac9-2bc0-499b-ac8f-86cca0ba7846)
+![Screenshot_3-8-2025_123622_dataplatform cloud ibm com](https://github.com/user-attachments/assets/d6b5e3fb-6d66-47e1-85fe-700a4854faf8)
+
+## Preview of Agent After Deployment
+![Screenshot_3-8-2025_123659_dataplatform cloud ibm com](https://github.com/user-attachments/assets/92b06464-1002-4393-84e8-ec7e6b89dcf3)
+![Screenshot_3-8-2025_123939_dataplatform cloud ibm com](https://github.com/user-attachments/assets/4cc5b402-1fbc-4289-b3cc-9d761851807d)
+![Screenshot_3-8-2025_124015_dataplatform cloud ibm com](https://github.com/user-attachments/assets/d60a9c3c-3138-478b-ba03-1e48f086822a)
+
+#  How to Run or Deploy
+- Log in to IBM Cloud Lite: https://cloud.ibm.com
+- In the Side Panel Click on watsonx
+- Click on watsonx.ai in IBM watsonx
+- Click on Gen AI solutions
+- Then on automating tasks with AI agents
+- Then on Agent Lab(Beta)
+- After that build your own Agent AI by following above Steps in Screenshots
+
+#  Future Scope
+- Voice input for accessibility
+- Monthly career update reports
+- Region-specific career recommendations
+- Integration with Islamic career ethics modules
+- Multilingual expansion with Watson Language Translator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
