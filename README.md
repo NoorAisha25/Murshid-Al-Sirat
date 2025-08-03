@@ -120,6 +120,9 @@ A smart, localized AI agent built on IBM Watsonx.ai and IBM Granite that deliver
 ![Screenshot_3-8-2025_123939_dataplatform cloud ibm com](https://github.com/user-attachments/assets/4cc5b402-1fbc-4289-b3cc-9d761851807d)
 ![Screenshot_3-8-2025_124015_dataplatform cloud ibm com](https://github.com/user-attachments/assets/d60a9c3c-3138-478b-ba03-1e48f086822a)
 
+# Recording 
+https://1drv.ms/v/c/cbae90cd3baecf55/EZGVYHec6oxHiRO8gQlbxiQB_l20dG2l7KHydLnvmveVBQ
+
 #  How to Run or Deploy
 - Log in to IBM Cloud Lite: https://cloud.ibm.com
 - In the Side Panel Click on watsonx
