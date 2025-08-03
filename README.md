@@ -141,11 +141,11 @@ A smart, localized AI agent built on IBM Watsonx.ai and IBM Granite that deliver
 - Impact reporting for NGOs, educators, and policymakers
 
 # Useful Links
-https://cloud.ibm.com/registration
-https://www.ibm.com/products/watsonx-ai
-https://skillsbuild.org/
-https://admin.skillindiadigital.gov.in/login
-https://www.ncs.gov.in/
+- https://cloud.ibm.com/registration
+- https://www.ibm.com/products/watsonx-ai
+- https://skillsbuild.org/
+- https://admin.skillindiadigital.gov.in/login
+- https://www.ncs.gov.in/
 
 
 
