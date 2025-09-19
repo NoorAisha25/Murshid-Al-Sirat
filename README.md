@@ -1,4 +1,4 @@
-# AI Career Counselor for Rural Youth -Murshid-Al-Sirat
+# AI Career Counselor for Rural Youth -Murshid-Al-Sirat(Guide Of Path)
 An AI-powered career guidance agent designed to empower rural youth with personalized, ethical, and accessible career advice. Built using IBM Watsonx.ai and IBM Granite, this agent helps underserved communities discover job-oriented courses, government schemes, and skill development opportunities—while aligning with values of purposeful livelihood and holistic growth.
 
 ![Screenshot_3-8-2025_12536_dataplatform cloud ibm com](https://github.com/user-attachments/assets/504e76e2-66a2-47e4-a34f-edc9203dae65)
